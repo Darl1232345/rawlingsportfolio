@@ -139,13 +139,13 @@ const Hero: React.FC = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 mb-16">
             <a 
-              href="#" 
+              href="https://github.com/Darlington-s-store" 
               className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center hover:shadow-xl transform hover:scale-110 transition-all duration-300 group"
             >
               <Github className="w-6 h-6 text-gray-600 group-hover:text-gray-800" />
             </a>
             <a 
-              href="#" 
+              href="https://www.linkedin.com/in/kwame-darlington-junior-189a80253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
               className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center hover:shadow-xl transform hover:scale-110 transition-all duration-300 group"
             >
               <Linkedin className="w-6 h-6 text-blue-600 group-hover:text-blue-700" />
